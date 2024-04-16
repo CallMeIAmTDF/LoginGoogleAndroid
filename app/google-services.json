@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293596910009",
+    "project_id": "login-bbde6",
+    "storage_bucket": "login-bbde6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293596910009:android:48c65fcb3c74bd4ce6a668",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJSJ31I-z_5mjZjcpb-SCeMz4GpUcz6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
